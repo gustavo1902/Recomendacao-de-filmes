@@ -8,6 +8,9 @@ O sistema é composto por dois componentes principais:
 - **API Backend em Flask**: Processa os dados dos filmes e gera recomendações.
 - **Frontend em React**: Oferece uma interface para buscar filmes e visualizar recomendações.
 
+## Visualização da Aplicação
+https://youtu.be/XToHq0zCY3g
+
 ## Funcionalidades
 
 - Pesquisar filmes por nome
