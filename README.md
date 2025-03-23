@@ -9,7 +9,7 @@ O sistema é composto por dois componentes principais:
 - **Frontend em React**: Oferece uma interface para buscar filmes e visualizar recomendações.
 
 ## Visualização da Aplicação
-https://youtu.be/XToHq0zCY3g
+[Clique aqui para acessar a demonstração](https://youtu.be/XToHq0zCY3g)
 
 ## Funcionalidades
 
