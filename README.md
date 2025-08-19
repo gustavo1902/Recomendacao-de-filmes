@@ -4,14 +4,14 @@ Um sistema de recomendação de filmes que utiliza filtragem baseada em conteúd
 
 **[Acesse a demonstração](https://youtu.be/XToHq0zCY3g) |**
 
-## ✨ Funcionalidades Principais
+## Funcionalidades Principais
 
 -   **Busca Inteligente:** Encontre filmes com sugestões em tempo real.
 -   **Recomendações por Conteúdo:** Receba sugestões baseadas na sinopse do filme escolhido.
 -   **Ranking Ponderado:** Os filmes são classificados por um score que considera a média de votos e a popularidade (IMDb Weighted Rating).
 -   **Desempenho Otimizado:** O backend utiliza dados pré-processados para respostas rápidas.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Frontend      | Backend       | Data Science        |
 | ------------- |:-------------:| -------------------:|
@@ -19,7 +19,7 @@ Um sistema de recomendação de filmes que utiliza filtragem baseada em conteúd
 | Axios         | Python        | Scikit-learn        |
 | CSS3          | Gunicorn      | TF-IDF              |
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 
@@ -63,7 +63,7 @@ Um sistema de recomendação de filmes que utiliza filtragem baseada em conteúd
     ```
     A aplicação abrirá em `http://localhost:3000`.
 
-## 📈 Melhorias Futuras
+## Melhorias Futuras
 
 -   [ ] Implementar deploy em um serviço como Vercel (frontend) e Heroku/Render (backend).
 -   [ ] Adicionar imagens (pôsteres) dos filmes na interface.
